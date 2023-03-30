@@ -1,4 +1,4 @@
-### Hi there 👋
+
 Este perfil es editable desde el README.md. Se puede armar un pequeño perfil. Se creo para que quede primero y como una presentacion poniendole el mismo nombre al repositori que el nombre de usuario.
 
 
